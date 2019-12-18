@@ -1,0 +1,13 @@
+ieee
+("Author Keywords":ubiquitous computing OR "Author Keywords":pervasive computing) AND ("Author Keywords":INTERNET OF THINGS OR "Author Keywords":MOBILE COMPUTING OR "Author Keywords":CLOUD COMPUTING OR "Author Keywords":CONTEXT-AWARENESS OR "Author Keywords":WEARABLE OR "Author Keywords":ACTIVITY RECOGNITION OR "Author Keywords":ARTIFICIAL INTELLIGENCE OR "Author Keywords":SECURITY)
+
+springer
+("ubiquitous computing" NEAR/20 "keywords" OR "pervasive computing" NEAR/20 "keywords") AND ("INTERNET OF THINGS" NEAR/20 "keywords" OR "MOBILE COMPUTING" NEAR/20 "keywords" OR "CLOUD COMPUTING" NEAR/20 "keywords" OR "CONTEXT-AWARENESS" NEAR/20 "keywords" OR "WEARABLE" NEAR/20 "keywords" OR "ACTIVITY RECOGNITION" NEAR/20 "keywords" OR "ARTIFICIAL INTELLIGENCE" NEAR/20 "keywords" OR "SECURITY" NEAR/20 "keywords")
+("ubiquitous computing" OR "pervasive computing") AND ("INTERNET OF THINGS" OR "MOBILE COMPUTING" OR "CLOUD COMPUTING" OR "CONTEXT-AWARENESS" OR "WEARABLE" OR "ACTIVITY RECOGNITION" OR "ARTIFICIAL INTELLIGENCE" OR "SECURITY")
+
+acm
+keywords.author.keyword:(+("ubiquitous computing" "pervasive computing") +("INTERNET OF THINGS" "MOBILE COMPUTING" "CLOUD COMPUTING" "CONTEXT-AWARENESS" "WEARABLE" "ACTIVITY RECOGNITION" "ARTIFICIAL INTELLIGENCE" "security"))
+
+
+Elsevier
+("ubiquitous computing" OR "pervasive computing") AND ("INTERNET OF THINGS" OR "MOBILE COMPUTING" OR "CLOUD COMPUTING" OR "CONTEXT-AWARENESS" OR "WEARABLE" OR "ACTIVITY RECOGNITION" OR "ARTIFICIAL INTELLIGENCE" OR "security"))
